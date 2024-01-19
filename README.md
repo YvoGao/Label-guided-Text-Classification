@@ -1,3 +1,3 @@
-# Prompt-classification
+# Boosting Meta-Learning for Few-Shot Text Classification via Label-guided Distance Scaling
 
-The code will be released soon.
+The code will be found in master branch....
