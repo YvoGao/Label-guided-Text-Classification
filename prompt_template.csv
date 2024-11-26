@@ -1,0 +1,7 @@
+dataset, template,
+HuffPost,This is a [MASK] news: [sentence],
+Reuters,This is a [MASK] news: [sentence],
+20newsgroup,This is a [MASK] news: [sentence],
+Amazon,This is a [MASK] review: [sentence],
+Clinc150,This is a [MASK] intent: [sentence],
+Banking77,This is a [MASK] intent: [sentence],
